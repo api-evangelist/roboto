@@ -64,5 +64,120 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Roboto is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by unusual-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://www.roboto.ai/
+Roboto provides an analytics engine for robotics and physical AI, enabling companies to ship reliable robots at scale. Their platform ingests robot data, surfaces insights on behavior, failure causes, and improvement opportunities, and offers AI agents that can be integrated via Slack or other tools. With industry-specific solutions for drones, medical robotics, and more, Roboto aims to accelerate robot deployment through data-driven decision making and a comprehensive developer experience.
+
+**Areas:** Company · Robotics · AI · Analytics · Platform
+
+## Roboto on APIs.io
+
+Everything profiled for Roboto is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/roboto/](https://apis.io/providers/roboto/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [Roboto Docs API](https://apis.io/apis/roboto/roboto-docs-api/) — API for Roboto Docs providing access to documentation resources.
+- [Roboto Discovery API](https://apis.io/apis/roboto/roboto-discovery-api/) — Agent discovery documents.
+- [Roboto Markdown API](https://apis.io/apis/roboto/roboto-markdown-api/) — Plain-text and Markdown surfaces.
+- [Roboto Navigation API](https://apis.io/apis/roboto/roboto-navigation-api/) — How the docs are organized.
+- [Roboto Pages API](https://apis.io/apis/roboto/roboto-pages-api/) — Enumerate and read documentation pages.
+- [Roboto Search API](https://apis.io/apis/roboto/roboto-search-api/) — Full-text search over the docs.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Roboto Agentic Access](https://apis.io/agentic-access/roboto/roboto-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Roboto Context](https://apis.io/jsonld/roboto/roboto-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Roboto API Rules](https://apis.io/rules/roboto/roboto-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Roboto Domain Security](https://apis.io/security/roboto/roboto-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Roboto Plans Pricing](https://apis.io/plans/roboto/roboto-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.roboto.ai/)
+- [Documentation](https://www.roboto.ai/docs/)
+- [Getting started](https://www.roboto.ai/docs/getting-started/)
+- [API reference](https://www.roboto.ai/docs/reference/rest-api)
+- [Pricing](https://www.roboto.ai/pricing)
+- [Blog](https://www.roboto.ai/blog)
+- [Terms of service](https://www.roboto.ai/terms)
+- [Privacy policy](https://www.roboto.ai/privacy)
+- [GitHub](https://github.com/roboto-ai)
+
+## API Evangelist rating
+
+**Kin Score 48.7** — developing · rubric 0.24.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 48.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 60.0 |
+
+**Agent readiness 26.1** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/roboto/](https://apis.io/providers/roboto/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Roboto: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/roboto/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
